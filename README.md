@@ -1,1 +1,1 @@
-# lab10wsd
+# WSD-Lab10
